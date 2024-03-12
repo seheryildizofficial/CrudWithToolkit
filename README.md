@@ -1,4 +1,4 @@
-# Kütüphaneler
+# Libraries
 
 - antd
 - bootstrap
